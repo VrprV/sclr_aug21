@@ -1,6 +1,6 @@
 package com.sclr.lld.objects;
 
-public class Hen extends Bird implements Sellable{
+public class Hen extends Bird{
     // private String name;
     // private String color;
     // private int weight;
